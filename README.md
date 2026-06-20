@@ -56,12 +56,12 @@ python src/main.py
 
 ## 🧮 Concepts mathématiques
 
-| Concept | Description |
-|---|---|
-| Normal Equation | θ = (XᵀX)⁻¹Xᵀy — solution directe, sans itération |
-| Terme biais | Colonne de 1 ajoutée à X pour modéliser la constante b |
-| MSE | Erreur quadratique moyenne |
-| R² | Proportion de variance expliquée par le modèle |
+| Concept         | Description                                            |
+| --------------- | ------------------------------------------------------ |
+| Normal Equation | θ = (XᵀX)⁻¹Xᵀy — solution directe, sans itération      |
+| Terme biais     | Colonne de 1 ajoutée à X pour modéliser la constante b |
+| MSE             | Erreur quadratique moyenne                             |
+| R²              | Proportion de variance expliquée par le modèle         |
 
 ---
 
